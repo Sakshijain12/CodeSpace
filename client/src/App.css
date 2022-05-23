@@ -1,0 +1,52 @@
+body {
+  background-color: aquamarine;
+}
+
+h1{
+  color: #1b1d34;
+  margin-left: 2%;
+  margin-right: 2%;
+  font-size: 90;
+  background-color: aliceblue;
+}
+
+textarea {
+  background-color: #282c34;
+  color: aliceblue;
+  border-width: 5px;
+  border-color: aliceblue;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+  align-items: center;
+  width: 45%;
+  float: left;
+  padding: 0.5%;
+  
+}
+
+p{
+  width: 45%;
+  background-color: #282c34;
+  color: aliceblue;
+  height: 45%;
+  float: left;
+  border-width: 5px;
+  border-color: aliceblue;
+  margin-left: 3%;
+  margin-top: 1%;
+  align-items: center;
+  border-style: solid;
+  padding: 0.5%;
+}
+
+button {
+  margin-left: 20%;
+  border: 1px;
+  background-color: rgb(253, 253, 253);
+  border-style: solid;
+}
+
+label{
+  margin-left: 2%;
+}
